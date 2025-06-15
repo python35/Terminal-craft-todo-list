@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="todo.png" alt="TodoCLI Logo" width="300">
+</div>
+
 # TodoCLI: A Simple Terminal To-Do List Manager
 
 **Contest:** #TerminalCraft YSWS
