@@ -84,10 +84,10 @@ Follow these steps to install and run `TodoCLI` on your system.
 Here are some screenshots showcasing the TodoCLI application:
 
 ![Screenshot of an empty task list](empty_list.png)
-*An empty task list, ready for your input.*
+
 
 ![Screenshot with tasks added](tasks_added.png)
-*Tasks added and managed within the application.*
+
 
 ## 🌐 Cross-Platform Compatibility
 
