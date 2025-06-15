@@ -77,13 +77,13 @@ Follow these steps to install and run `TodoCLI` on your system.
 
 ## 🖼️ Screenshots & Demo
 
-    Here are some screenshots showcasing the TodoCLI application:
+Here are some screenshots showcasing the TodoCLI application:
 
-    ![Screenshot of an empty task list](Schermafbeelding 2025-06-15 om 12.21.27.png)
-    *An empty task list, ready for your input.*
+![Screenshot of an empty task list](Schermafbeelding 2025-06-15 om 12.21.27.png)
+*An empty task list, ready for your input.*
 
-    ![Screenshot with tasks added](Schermafbeelding 2025-06-15 om 12.24.18.png)
-    *Tasks added and managed within the application.*
+![Screenshot with tasks added](Schermafbeelding 2025-06-15 om 12.24.18.png)
+*Tasks added and managed within the application.*
 
 ## 🌐 Cross-Platform Compatibility
 
@@ -99,5 +99,3 @@ The application is fully self-contained and does not require any pre-installed t
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
