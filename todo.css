@@ -1,0 +1,85 @@
+/* todo.css */
+
+Screen {
+    background: #282a36; /* Dracula Theme: Background */
+    color: #f8f8f2; /* Dracula Theme: Foreground */
+}
+
+Header {
+    background: #44475a; /* Dracula Theme: Current line / Selection */
+    color: #8be9fd; /* Dracula Theme: Cyan */
+    height: 3;
+    padding: 0 2;
+    text-align: center;
+    border-bottom: heavy #6272a4; /* Dracula Theme: Purple */
+}
+
+Header .header--title {
+    text-align: center;
+    width: 1fr;
+}
+
+Footer {
+    background: #44475a;
+    color: #ff79c6; /* Dracula Theme: Pink */
+    height: 3;
+    border-top: heavy #6272a4;
+}
+
+#task-list-container {
+    height: 1fr; /* Zorgt ervoor dat de scrollable container de resterende ruimte inneemt */
+    padding: 1 2; /* Voeg wat padding toe */
+}
+
+DataTable {
+    background: #282a36;
+    color: #f8f8f2;
+    border: round #6272a4;
+    height: 100%; /* Zorgt dat de tabel de hele container vult */
+    width: 100%;
+}
+
+DataTable .datatable--header {
+    background: #bd93f9; /* Dracula Theme: Purple */
+    color: #282a36;
+    text-align: center;
+}
+
+DataTable .datatable--column-title {
+    text-align: center;
+}
+
+.datatable--cursor {
+    background: #ffb86c; /* Dracula Theme: Orange */
+    color: #282a36;
+}
+
+Input {
+    border: dashed #50fa7b; /* Dracula Theme: Green */
+    padding: 0 1;
+    height: 3;
+    margin: 1 2; /* Margins aan boven- en zijkanten */
+    width: 1fr;
+    /* placeholder-style: italic #6272a4; <-- Deze is nu weg of commented-out */
+}
+
+Input:focus {
+    border: solid #f1fa8c; /* Dracula Theme: Yellow */
+}
+
+/* Notificaties */
+.textual-notify {
+    background: #6272a4; /* Paarsachtig */
+    color: #f8f8f2;
+    border: solid #ff79c6;
+}
+
+.textual-notify.warning {
+    background: #ffb86c; /* Oranje */
+    color: black;
+}
+
+.textual-notify.error {
+    background: #ff5555; /* Rood */
+    color: white;
+}
