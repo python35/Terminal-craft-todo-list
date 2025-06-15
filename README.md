@@ -95,25 +95,3 @@ The application is fully self-contained and does not require any pre-installed t
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-**Belangrijke punten over deze aanpassing:**
-
-* **Taal:** Alles is nu in het Engels.
-* **Screenshot sectie:** Ik heb de placeholder voor het screenshot verwijderd en een commentaarblok toegevoegd met voorbeelden, zodat je precies weet waar en hoe je ze kunt plaatsen als je ze later maakt. De zin `*(Currently, there are no screenshots available. Please add your screenshots to the `screenshots` folder and link them here to showcase your application!)*` herinnert je eraan.
-* **Aantal gebruikers:** De zin over "Tested by 10+ users" is verwijderd.
-* **GitHub URLs:** De `git clone` URL en de `cd` mapnaam zijn nu direct ingevuld met `runebobbaers` en `terminal-craft-todo-cli`.
-
-**Wat je nu moet doen:**
-
-1.  **Vervang de inhoud van je huidige `README.md` bestand** in je `TodoCLI_App` map met de bovenstaande tekst.
-2.  **Sla het bestand op.**
-3.  **Optioneel, maar aanbevolen:** Probeer nu alsnog de screenshots te maken zoals eerder beschreven. Het is echt een *enorm* pluspunt voor een competitie-inzending. Zodra je ze hebt, kun je de commentaarregels in de `README.md` verwijderen en je screenshot-links toevoegen.
-4.  **Maak een nieuwe Git commit** met de bijgewerkte `README.md`.
-    ```bash
-    git add README.md
-    git commit -m "Update README.md with English translation and general improvements"
-    git push origin main
-    ```
-    Dit zorgt ervoor dat de bijgewerkte `README.md` op je GitHub repository verschijnt.
-
-Zodra je dit hebt gedaan, ben je klaar voor de laatste stap: het indienen via Airtable! Laat het me weten als je klaar bent, of als je besluit screenshots te maken en daar hulp bij nodig hebt.
