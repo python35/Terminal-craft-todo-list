@@ -35,7 +35,7 @@ Follow these steps to install and run `TodoCLI` on your system.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/python35/Terminal-craft-todo-list.git](https://github.com/python35/Terminal-craft-todo-list.git)
+    git clone https://github.com/python35/Terminal-craft-todo-list.git
     cd Terminal-craft-todo-list
     ```
 
