@@ -20,7 +20,7 @@ In a world where we constantly switch between applications, `TodoCLI` provides a
 * **Delete Tasks:** Permanently remove unwanted tasks.
 * **Filter Completed Tasks:** Toggle between showing all tasks and only active (incomplete) tasks.
 * **Persistence:** Tasks are saved locally in `tasks.json`, so you don't lose them when closing the app.
-* **Interactive UI:** Navigate and interact with the app using the keyboard.
+* **Interactive UI:** Navigate and interact with the app with the keyboard.
 
 ## 🚀 Installation Instructions
 
@@ -35,8 +35,8 @@ Follow these steps to install and run `TodoCLI` on your system.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/runebobbaers/terminal-craft-todo-cli.git](https://github.com/runebobbaers/terminal-craft-todo-cli.git)
-    cd terminal-craft-todo-cli
+    git clone [https://github.com/python35/Terminal-craft-todo-list.git](https://github.com/python35/Terminal-craft-todo-list.git)
+    cd Terminal-craft-todo-list
     ```
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
@@ -56,7 +56,7 @@ Follow these steps to install and run `TodoCLI` on your system.
         .\venv\Scripts\Activate.ps1
         ```
 
-3.  **Install Dependencies:**
+3.  **Installeer Afhankelijkheden:**
     Ensure your virtual environment is active, then install the required libraries:
     ```bash
     pip install -r requirements.txt
@@ -65,7 +65,7 @@ Follow these steps to install and run `TodoCLI` on your system.
 ## 🎮 Usage Instructions
 
 1.  **Start the application:**
-    Make sure you are in the project directory (`terminal-craft-todo-cli`) and your virtual environment is activated.
+    Make sure you are in the project directory (`Terminal-craft-todo-list`) and your virtual environment is activated.
     ```bash
     python app.py
     ```
@@ -75,7 +75,7 @@ Follow these steps to install and run `TodoCLI` on your system.
     * **`a` (Add Task):** Moves focus to the input field at the bottom, allowing you to quickly type a new task. Press `Enter` to add the task.
     * **`d` (Delete Selected):** Deletes the task currently selected in the table.
     * **`c` (Toggle Complete):** Changes the completion status of the selected task (marks as complete or incomplete).
-    * **`v` (Toggle View Completed):** Toggles between showing all tasks (default) and only active (incomplete) tasks.
+    * **`v` (Toggle View Completed):):** Toggles between showing all tasks (default) and only active (incomplete) tasks.
     * **`Esc` (Clear Selection):** Clears the selection in the task list.
     * **`q` (Quit):** Exits the application.
 
@@ -84,10 +84,10 @@ Follow these steps to install and run `TodoCLI` on your system.
 Here are some screenshots showcasing the TodoCLI application:
 
 ![Screenshot of an empty task list](empty_list.png)
-
+*An empty task list, ready for your input.*
 
 ![Screenshot with tasks added](tasks_added.png)
-
+*Tasks added and managed within the application.*
 
 ## 🌐 Cross-Platform Compatibility
 
